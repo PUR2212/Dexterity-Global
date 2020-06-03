@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Light.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Regular.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("../fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Bold.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Bahnschrift-Regular.ttf")  format("truetype"),
+       url("../fonts/Bahnschrift-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Bahnschrift";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Bahnschrift-Bold.ttf")  format("truetype"),
+       url("../fonts/Bahnschrift-Bold.otf") format("opentype");
+   font-weight : 700;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Cambria";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Cambria-Bold.ttf")  format("truetype"),
+       url("../fonts/Cambria-Bold.otf") format("opentype");
+   font-weight : 700;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Cambria";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Cambria-Regular.ttf")  format("truetype"),
+       url("../fonts/Cambria-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Bookman Old Style";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Bookman_Old_Style-SemiBold.ttf")  format("truetype"),
+       url("../fonts/Bookman_Old_Style-SemiBold.otf") format("opentype");
+   font-weight : 600;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Bookman Old Style";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Bookman_Old_Style-Light.ttf")  format("truetype"),
+       url("../fonts/Bookman_Old_Style-Light.otf") format("opentype");
+   font-weight : 300;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Book Antiqua";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Book_Antiqua-Regular.ttf")  format("truetype"),
+       url("../fonts/Book_Antiqua-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Book Antiqua";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Book_Antiqua-Bold.ttf")  format("truetype"),
+       url("../fonts/Book_Antiqua-Bold.otf") format("opentype");
+   font-weight : 700;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Algerian";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Algerian-Regular.ttf")  format("truetype"),
+       url("../fonts/Algerian-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}
